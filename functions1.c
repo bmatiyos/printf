@@ -133,8 +133,3 @@ int print_hexa(va_list types, char map_to[], char buffer[], int flags,
 				precision, size));
 }
 
-
-
-
-
-
